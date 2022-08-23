@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# E-commerce
+  # Shopify  ---> Dropshipping $5000
+  # Amazon FBA $5000
+
+# Stock exchange (Trading)  
+  # S&P 500  $5000
+
+# Build a startup $60000
+
+# http client library
+
+
+    
