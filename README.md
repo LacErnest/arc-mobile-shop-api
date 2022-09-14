@@ -1,4 +1,4 @@
-# MERN E-Commerce Store
+# Arc mobile E-Commerce Store (Internship Project [Victor Ike])
 
 ## Tech
 
